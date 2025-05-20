@@ -1,5 +1,7 @@
 # BrumerHouse SmartHome
 
+## NOTE: This project is under development. Currently, all code files are a placeholder while the project is developed
+
 ## Introduction
 
 The movie, Smart Home was released in 1999. Although I have been waiting for 25 years, my apartment is still not like the house in this movie. Of course there are mass produced solutions to this problem. With a Google Home Mini and a couple smart lights, I could finally turn the lights off without getting out of bed. Add a TP-Link smart temperature sensor and I can be notified when it is time to close the windows and turn the A/C on (I could just wait until I feel warm but what’s the fun in that?). These can be a great solution as they are easy to set up and maintain. However, there are a number of drawbacks. First, if I control everything with a Home Mini, then Google has access to all that information. Second, the data can be difficult to capture and analyze. I would be relying on the device manufacturer to provide a API that allows me to access both streaming and historical data. Lastly, this method lacks the fun of building the system myself! This is the major contributor to me wanting to build my own smart home system.
